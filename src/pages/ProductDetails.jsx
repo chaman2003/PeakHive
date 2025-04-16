@@ -713,23 +713,34 @@ const ProductDetails = () => {
                     </div>
                   </div>
                   
-                  <div className="col-6 col-md-4 col-lg-2">
-                    <div className="spec-item text-center p-3 h-100 border rounded">
-                      <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Weight</h6>
-                      <p className="mb-0 fw-bold">
-                        {product.specifications?.find(spec => spec.name.toLowerCase() === 'weight')?.value || 'N/A'}
-                      </p>
+                  {product.specifications?.find(spec => spec.name.toLowerCase() === 'weight') && (
+                    <div className="col-6 col-md-4 col-lg-2">
+                      <div className="spec-item text-center p-3 h-100 border rounded">
+                        <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Weight</h6>
+                        <p className="mb-0 fw-bold">
+                          {product.specifications.find(spec => spec.name.toLowerCase() === 'weight').value}
+                        </p>
+                      </div>
                     </div>
-                  </div>
+                  )}
                   
-                  <div className="col-6 col-md-4 col-lg-2">
-                    <div className="spec-item text-center p-3 h-100 border rounded">
-                      <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Warranty</h6>
-                      <p className="mb-0 fw-bold">
-                        {product.specifications?.find(spec => spec.name.toLowerCase() === 'warranty')?.value || 'Standard Warranty'}
-                      </p>
+                  {product.specifications?.find(spec => spec.name.toLowerCase() === 'warranty') ? (
+                    <div className="col-6 col-md-4 col-lg-2">
+                      <div className="spec-item text-center p-3 h-100 border rounded">
+                        <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Warranty</h6>
+                        <p className="mb-0 fw-bold">
+                          {product.specifications.find(spec => spec.name.toLowerCase() === 'warranty').value}
+                        </p>
+                      </div>
                     </div>
-                  </div>
+                  ) : (
+                    <div className="col-6 col-md-4 col-lg-2">
+                      <div className="spec-item text-center p-3 h-100 border rounded">
+                        <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Warranty</h6>
+                        <p className="mb-0 fw-bold">Standard Warranty</p>
+                      </div>
+                    </div>
+                  )}
                 </div>
               </div>
             </div>
