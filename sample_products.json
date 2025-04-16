@@ -1,0 +1,2574 @@
+[
+  {
+    "_id": {
+      "$oid": "64a26e5eabfd4f2fa35b10e0"
+    },
+    "name": "Dell XPS 15",
+    "price": 1601.78,
+    "description": "Dell delivers premium performance with cutting-edge hardware and an immersive experience.",
+    "category": "Laptops",
+    "brand": "Dell",
+    "images": [
+      "https://images.unsplash.com/photo-1569770218135-bea267ed7e84?q=80&w=1000",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1000",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?q=80&w=1000"
+    ],
+    "rating": 4.5,
+    "reviewCount": 127,
+    "inStock": true,
+    "stock": 77,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Intel Core i7-12700H",
+        "_id": {
+          "$oid": "64a14f6a38719439b9b0075b3"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB",
+        "_id": {
+          "$oid": "64f6e1e36e5745db8b243c6c"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "1TB SSD",
+        "_id": {
+          "$oid": "64d19b64e17b4a49a7a821044"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "15.6\" 4K OLED",
+        "_id": {
+          "$oid": "64d36f4aebd8b4fd8b404a1d2"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 12 hours",
+        "_id": {
+          "$oid": "64ce515a0c2f4863b9bbbe14"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11",
+        "_id": {
+          "$oid": "64b2cbd06d3c64e728b43ab4f"
+        }
+      }
+    ],
+    "features": [
+      "Backlit Keyboard",
+      "Fingerprint Sensor",
+      "Thunderbolt 4"
+    ],
+    "tags": [
+      "laptop",
+      "portable",
+      "high-performance"
+    ],
+    "discount": 10,
+    "variants": [],
+    "createdAt": {
+      "$date": "2025-04-16T09:30:53.646312Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T09:30:53.646317Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64a26e5eabfd4f2fa35b10e1"
+    },
+    "name": "MacBook Pro M3",
+    "price": 1999.99,
+    "description": "The most powerful MacBook Pro ever with the blazing-fast M3 chip and up to 22 hours of battery life.",
+    "category": "Laptops",
+    "brand": "Apple",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1000",
+      "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1000",
+      "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?q=80&w=1000"
+    ],
+    "rating": 4.8,
+    "reviewCount": 243,
+    "inStock": true,
+    "stock": 50,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Apple M3 Pro",
+        "_id": {
+          "$oid": "64414f6a38719439b9b0075b4"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB Unified Memory",
+        "_id": {
+          "$oid": "64f6e1e36e5745db8b243c6d"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "512GB SSD",
+        "_id": {
+          "$oid": "64e19b64e17b4a49a7a821045"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "14.2\" Liquid Retina XDR",
+        "_id": {
+          "$oid": "64d36f4aebd8b4fd8b404a1d3"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 22 hours",
+        "_id": {
+          "$oid": "64ce515a0c2f4863b9bbbe15"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "macOS Sonoma",
+        "_id": {
+          "$oid": "64b2cbd06d3c64e728b43ab4e"
+        }
+      }
+    ],
+    "features": [
+      "Touch ID",
+      "Liquid Retina XDR display",
+      "Studio-quality mics"
+    ],
+    "tags": [
+      "laptop",
+      "apple",
+      "macbook",
+      "professional"
+    ],
+    "discount": 0,
+    "variants": [],
+    "createdAt": {
+      "$date": "2025-04-16T10:15:23.123456Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T10:15:23.123456Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "14a26e5eabfd4f2fa35b10f1"
+    },
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1499.99,
+    "description": "Ultra-light business laptop with military-grade durability, exceptional security features, and all-day battery life.",
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "images": [
+      "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1000",
+      "https://images.unsplash.com/photo-1593642634367-d91a135587b5?q=80&w=1000",
+      "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 186,
+    "inStock": true,
+    "stock": 65,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Intel Core i7-1260P",
+        "_id": {
+          "$oid": "a414f6a38719439b9b0075c1"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB LPDDR5",
+        "_id": {
+          "$oid": "a4f6e1e36e5745db8b243c81"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "512GB NVMe SSD",
+        "_id": {
+          "$oid": "p19b64e17b4a49a7a2821051"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "14\" WUXGA IPS Anti-glare",
+        "_id": {
+          "$oid": "pd36f4aebd8b4fd8b404a1e1"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 15 hours",
+        "_id": {
+          "$oid": "1dce515a0c2f4863b9bbbe21"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro",
+        "_id": {
+          "$oid": "1b2cbd06d3c64e728b43ab51"
+        }
+      }
+    ],
+    "features": [
+      "MIL-STD-810H tested",
+      "Dolby Voice",
+      "ThinkShield security"
+    ],
+    "tags": [
+      "laptop",
+      "business",
+      "ultralight",
+      "thinkpad"
+    ],
+    "discount": 12,
+    "variants": [],
+    "createdAt": {
+      "$date": "2025-04-16T21:10:40.223456Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T21:10:40.223456Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "24a26e5eabfd4f2fa35b10f2"
+    },
+    "name": "HP Spectre x360",
+    "price": 1349.99,
+    "description": "Premium 2-in-1 convertible laptop with gem-cut design, brilliant OLED display, and intelligent performance.",
+    "category": "Laptops",
+    "brand": "HP",
+    "images": [
+      "https://images.unsplash.com/photo-1589561084283-930aa7b1ce50?q=80&w=1000",
+      "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?q=80&w=1000",
+      "https://images.unsplash.com/photo-1544377193-33dcf4d68fb5?q=80&w=1000"
+    ],
+    "rating": 4.6,
+    "reviewCount": 154,
+    "inStock": true,
+    "stock": 48,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Intel Core i7-1255U",
+        "_id": {
+          "$oid": "b414f6a38719439b9b0075c2"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB DDR4",
+        "_id": {
+          "$oid": "b4f6e1e36e5745db8b243c82"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "1TB PCIe NVMe SSD",
+        "_id": {
+          "$oid": "q19b64e17b4a49a7a2821052"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "13.5\" 3K2K OLED Touch",
+        "_id": {
+          "$oid": "qd36f4aebd8b4fd8b404a1e2"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 16 hours",
+        "_id": {
+          "$oid": "2dce515a0c2f4863b9bbbe22"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home",
+        "_id": {
+          "$oid": "2b2cbd06d3c64e728b43ab52"
+        }
+      }
+    ],
+    "features": [
+      "360° hinge",
+      "HP Rechargeable MPP2.0 Tilt Pen",
+      "5MP IR camera"
+    ],
+    "tags": [
+      "laptop",
+      "convertible",
+      "touchscreen",
+      "premium"
+    ],
+    "discount": 15,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Nightfall Black", "Poseidon Blue"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T21:25:15.334567Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T21:25:15.334567Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "34a26e5eabfd4f2fa35b10f3"
+    },
+    "name": "ASUS ROG Zephyrus G14",
+    "price": 1499.99,
+    "description": "Ultra-slim gaming laptop with powerful AMD processor, dedicated NVIDIA graphics, and AniMe Matrix display.",
+    "category": "Laptops",
+    "brand": "ASUS",
+    "images": [
+      "https://images.unsplash.com/photo-1603575448360-153f093fd0b2?q=80&w=1000",
+      "https://images.unsplash.com/photo-1603575448878-13b2326e827b?q=80&w=1000",
+      "https://images.unsplash.com/photo-1602080858428-57174f9431cf?q=80&w=1000"
+    ],
+    "rating": 4.8,
+    "reviewCount": 212,
+    "inStock": true,
+    "stock": 35,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "AMD Ryzen 9 6900HS",
+        "_id": {
+          "$oid": "c414f6a38719439b9b0075c3"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB DDR5",
+        "_id": {
+          "$oid": "c4f6e1e36e5745db8b243c83"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "1TB PCIe 4.0 SSD",
+        "_id": {
+          "$oid": "r19b64e17b4a49a7a2821053"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "14\" 2K 120Hz",
+        "_id": {
+          "$oid": "rd36f4aebd8b4fd8b404a1e3"
+        }
+      },
+      {
+        "name": "Graphics",
+        "value": "NVIDIA RTX 3060 6GB",
+        "_id": {
+          "$oid": "3dce515a0c2f4863b9bbbe23"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home",
+        "_id": {
+          "$oid": "3b2cbd06d3c64e728b43ab53"
+        }
+      }
+    ],
+    "features": [
+      "AniMe Matrix display",
+      "Dolby Atmos audio",
+      "Vapor chamber cooling"
+    ],
+    "tags": [
+      "laptop",
+      "gaming",
+      "portable",
+      "high-performance"
+    ],
+    "discount": 8,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Moonlight White", "Eclipse Gray"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T21:40:22.445678Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T21:40:22.445678Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "44a26e5eabfd4f2fa35b10f4"
+    },
+    "name": "Acer Swift 5",
+    "price": 1099.99,
+    "description": "Ultra-thin and lightweight laptop with antimicrobial coating, powerful performance, and all-day battery life.",
+    "category": "Laptops",
+    "brand": "Acer",
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=1000",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=1000",
+      "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?q=80&w=1000"
+    ],
+    "rating": 4.5,
+    "reviewCount": 178,
+    "inStock": true,
+    "stock": 42,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Intel Core i7-1165G7",
+        "_id": {
+          "$oid": "d414f6a38719439b9b0075c4"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB LPDDR4X",
+        "_id": {
+          "$oid": "d4f6e1e36e5745db8b243c84"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "512GB PCIe NVMe SSD",
+        "_id": {
+          "$oid": "s19b64e17b4a49a7a2821054"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "14\" FHD IPS Touch",
+        "_id": {
+          "$oid": "sd36f4aebd8b4fd8b404a1e4"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 15 hours",
+        "_id": {
+          "$oid": "4dce515a0c2f4863b9bbbe24"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home",
+        "_id": {
+          "$oid": "4b2cbd06d3c64e728b43ab54"
+        }
+      }
+    ],
+    "features": [
+      "Antimicrobial Corning Gorilla Glass",
+      "Fingerprint reader",
+      "Wake on Voice"
+    ],
+    "tags": [
+      "laptop",
+      "ultrabook",
+      "lightweight",
+      "touchscreen"
+    ],
+    "discount": 10,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Mist Green", "Safari Gold"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T21:55:33.556789Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T21:55:33.556789Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "54a26e5eabfd4f2fa35b10f5"
+    },
+    "name": "Microsoft Surface Laptop 5",
+    "price": 1299.99,
+    "description": "Sleek and stylish laptop with vibrant PixelSense touchscreen, all-day battery life, and premium design.",
+    "category": "Laptops",
+    "brand": "Microsoft",
+    "images": [
+      "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?q=80&w=1000",
+      "https://images.unsplash.com/photo-1612425626229-564dbc657fb9?q=80&w=1000",
+      "https://images.unsplash.com/photo-1618410320928-25228d211ba2?q=80&w=1000"
+    ],
+    "rating": 4.6,
+    "reviewCount": 165,
+    "inStock": true,
+    "stock": 55,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Intel Core i7-1255U",
+        "_id": {
+          "$oid": "e414f6a38719439b9b0075c5"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB LPDDR5x",
+        "_id": {
+          "$oid": "e4f6e1e36e5745db8b243c85"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "512GB SSD",
+        "_id": {
+          "$oid": "t19b64e17b4a49a7a2821055"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "13.5\" PixelSense Touch",
+        "_id": {
+          "$oid": "td36f4aebd8b4fd8b404a1e5"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 18 hours",
+        "_id": {
+          "$oid": "5dce515a0c2f4863b9bbbe25"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home",
+        "_id": {
+          "$oid": "5b2cbd06d3c64e728b43ab55"
+        }
+      }
+    ],
+    "features": [
+      "Dolby Atmos audio",
+      "Windows Hello face authentication",
+      "Omnisonic speakers"
+    ],
+    "tags": [
+      "laptop",
+      "touchscreen",
+      "sleek",
+      "surface"
+    ],
+    "discount": 5,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Platinum", "Matte Black", "Sage", "Sandstone"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T22:10:44.667890Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T22:10:44.667890Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64a26e5eabfd4f2fa35b10f6"
+    },
+    "name": "Razer Blade 15",
+    "price": 2399.99,
+    "description": "Powerful gaming laptop with premium CNC aluminum chassis, cutting-edge graphics, and stunning display.",
+    "category": "Laptops",
+    "brand": "Razer",
+    "images": [
+      "https://images.unsplash.com/photo-1618410387928-c5b54b6c14ca?q=80&w=1000",
+      "https://images.unsplash.com/photo-1619687681525-c0f5fda71b88?q=80&w=1000",
+      "https://images.unsplash.com/photo-1614682035851-da56e2dc1f54?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 198,
+    "inStock": true,
+    "stock": 30,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Intel Core i9-12900H",
+        "_id": {
+          "$oid": "f414f6a38719439b9b0075c6"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "32GB DDR5",
+        "_id": {
+          "$oid": "f4f6e1e36e5745db8b243c86"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "1TB PCIe NVMe SSD",
+        "_id": {
+          "$oid": "u19b64e17b4a49a7a2821056"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "15.6\" QHD 240Hz",
+        "_id": {
+          "$oid": "ud36f4aebd8b4fd8b404a1e6"
+        }
+      },
+      {
+        "name": "Graphics",
+        "value": "NVIDIA RTX 3080 Ti 16GB",
+        "_id": {
+          "$oid": "6dce515a0c2f4863b9bbbe26"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home",
+        "_id": {
+          "$oid": "6b2cbd06d3c64e728b43ab56"
+        }
+      }
+    ],
+    "features": [
+      "Per-key RGB lighting",
+      "Vapor chamber cooling",
+      "THX Spatial Audio"
+    ],
+    "tags": [
+      "laptop",
+      "gaming",
+      "high-performance",
+      "premium"
+    ],
+    "discount": 0,
+    "variants": [],
+    "createdAt": {
+      "$date": "2025-04-16T22:25:55.778901Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T22:25:55.778901Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "74a26e5eabfd4f2fa35b10f7"
+    },
+    "name": "LG Gram 17",
+    "price": 1599.99,
+    "description": "Ultra-lightweight 17-inch laptop with impressive battery life, stunning display, and military-grade durability.",
+    "category": "Laptops",
+    "brand": "LG",
+    "images": [
+      "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?q=80&w=1000",
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=1000",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1000"
+    ],
+    "rating": 4.6,
+    "reviewCount": 142,
+    "inStock": true,
+    "stock": 38,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Intel Core i7-1260P",
+        "_id": {
+          "$oid": "0414f6a38719439b9b0075c7"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB LPDDR5",
+        "_id": {
+          "$oid": "04f6e1e36e5745db8b243c87"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "1TB NVMe SSD",
+        "_id": {
+          "$oid": "v19b64e17b4a49a7a2821057"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "17\" WQXGA IPS",
+        "_id": {
+          "$oid": "vd36f4aebd8b4fd8b404a1e7"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 19.5 hours",
+        "_id": {
+          "$oid": "7dce515a0c2f4863b9bbbe27"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home",
+        "_id": {
+          "$oid": "7b2cbd06d3c64e728b43ab57"
+        }
+      }
+    ],
+    "features": [
+      "MIL-STD-810G compliant",
+      "Weighs only 1350g",
+      "Thunderbolt 4"
+    ],
+    "tags": [
+      "laptop",
+      "lightweight",
+      "large-screen",
+      "long-battery"
+    ],
+    "discount": 12,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Obsidian Black", "Snow White"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T22:40:10.889012Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T22:40:10.889012Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "84a26e5eabfd4f2fa35b10f8"
+    },
+    "name": "Alienware x14",
+    "price": 1899.99,
+    "description": "The world's thinnest 14-inch gaming laptop with advanced cooling technology, high-end performance, and premium design.",
+    "category": "Laptops",
+    "brand": "Dell",
+    "images": [
+      "https://images.unsplash.com/photo-1615750185825-fc85c6aba18d?q=80&w=1000",
+      "https://images.unsplash.com/photo-1604684768394-52a862c54ef3?q=80&w=1000",
+      "https://images.unsplash.com/photo-1625842268584-8f3296236761?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 156,
+    "inStock": true,
+    "stock": 25,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Intel Core i7-12700H",
+        "_id": {
+          "$oid": "1414f6a38719439b9b0075c8"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "32GB LPDDR5",
+        "_id": {
+          "$oid": "14f6e1e36e5745db8b243c88"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "1TB PCIe NVMe SSD",
+        "_id": {
+          "$oid": "w19b64e17b4a49a7a2821058"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "14\" FHD 144Hz",
+        "_id": {
+          "$oid": "wd36f4aebd8b4fd8b404a1e8"
+        }
+      },
+      {
+        "name": "Graphics",
+        "value": "NVIDIA RTX 3060 6GB",
+        "_id": {
+          "$oid": "8dce515a0c2f4863b9bbbe28"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home",
+        "_id": {
+          "$oid": "8b2cbd06d3c64e728b43ab58"
+        }
+      }
+    ],
+    "features": [
+      "Element 31 thermal interface",
+      "AlienFX lighting",
+      "Advanced Optimus technology"
+    ],
+    "tags": [
+      "laptop",
+      "gaming",
+      "alienware",
+      "slim"
+    ],
+    "discount": 5,
+    "variants": [],
+    "createdAt": {
+      "$date": "2025-04-16T22:55:20.990123Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T22:55:20.990123Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "74a26e5eabfd4f2fa35b10e2"
+    },
+    "name": "iPhone 15 Pro Max",
+    "price": 1299.99,
+    "description": "The ultimate iPhone with a titanium design, A17 Pro chip, and the most advanced camera system ever.",
+    "category": "Smartphones",
+    "brand": "Apple",
+    "images": [
+      "https://images.unsplash.com/photo-1695553868312-5e516a9a3c15?q=80&w=1000",
+      "https://images.unsplash.com/photo-1635870667207-779966154192?q=80&w=1000",
+      "https://images.unsplash.com/photo-1697559078485-11cec186ee4e?q=80&w=1000"
+    ],
+    "rating": 4.9,
+    "reviewCount": 357,
+    "inStock": true,
+    "stock": 120,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "A17 Pro",
+        "_id": {
+          "$oid": "1414f6a38719439b9b0075b5"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "8GB",
+        "_id": {
+          "$oid": "14f6e1e36e5745db8b243c6e"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "256GB",
+        "_id": {
+          "$oid": "f19b64e17b4a49a7a2821046"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.7\" Super Retina XDR",
+        "_id": {
+          "$oid": "fd36f4aebd8b4fd8b404a1d4"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 29 hours video playback",
+        "_id": {
+          "$oid": "7dce515a0c2f4863b9bbbe16"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "iOS 17",
+        "_id": {
+          "$oid": "cb2cbd06d3c64e728b43ab4d"
+        }
+      }
+    ],
+    "features": [
+      "48MP Main Camera",
+      "Action Button",
+      "Titanium Design"
+    ],
+    "tags": [
+      "smartphone",
+      "apple",
+      "iphone",
+      "5G"
+    ],
+    "discount": 5,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"]
+      },
+      {
+        "name": "Storage",
+        "options": ["256GB", "512GB", "1TB"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T11:20:33.987654Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T11:20:33.987654Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "84a26e5eabfd4f2fa35b10e3"
+    },
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1199.99,
+    "description": "The ultimate Galaxy experience with Galaxy AI, 200MP camera, and S Pen included.",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=1000",
+      "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?q=80&w=1000",
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 298,
+    "inStock": true,
+    "stock": 85,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Snapdragon 8 Gen 3",
+        "_id": {
+          "$oid": "2414f6a38719439b9b0075b6"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "12GB",
+        "_id": {
+          "$oid": "24f6e1e36e5745db8b243c6f"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "512GB",
+        "_id": {
+          "$oid": "g19b64e17b4a49a7a2821047"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.8\" Dynamic AMOLED 2X",
+        "_id": {
+          "$oid": "gd36f4aebd8b4fd8b404a1d5"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "5000mAh",
+        "_id": {
+          "$oid": "8dce515a0c2f4863b9bbbe17"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Android 14",
+        "_id": {
+          "$oid": "db2cbd06d3c64e728b43ab4c"
+        }
+      }
+    ],
+    "features": [
+      "S Pen included",
+      "200MP Camera",
+      "Galaxy AI"
+    ],
+    "tags": [
+      "smartphone",
+      "samsung",
+      "galaxy",
+      "5G"
+    ],
+    "discount": 8,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Titanium Black", "Titanium Gray", "Titanium Violet", "Titanium Yellow"]
+      },
+      {
+        "name": "Storage",
+        "options": ["256GB", "512GB", "1TB"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T12:30:45.135792Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T12:30:45.135792Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "94a26e5eabfd4f2fa35b10f9"
+    },
+    "name": "Google Pixel 8 Pro",
+    "price": 999.99,
+    "description": "Google's most advanced smartphone with incredible AI capabilities, a stunning display, and best-in-class photography.",
+    "category": "Smartphones",
+    "brand": "Google",
+    "images": [
+      "https://images.unsplash.com/photo-1696476489926-af574988bd19?q=80&w=1000",
+      "https://images.unsplash.com/photo-1598327105854-c8674faddf79?q=80&w=1000",
+      "https://images.unsplash.com/photo-1573148195900-7845dcb9b127?q=80&w=1000"
+    ],
+    "rating": 4.8,
+    "reviewCount": 245,
+    "inStock": true,
+    "stock": 65,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Google Tensor G3",
+        "_id": {
+          "$oid": "2414f6a38719439b9b0075c9"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "12GB",
+        "_id": {
+          "$oid": "24f6e1e36e5745db8b243c89"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "256GB",
+        "_id": {
+          "$oid": "x19b64e17b4a49a7a2821059"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.7\" LTPO OLED 120Hz",
+        "_id": {
+          "$oid": "xd36f4aebd8b4fd8b404a1e9"
+        }
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh",
+        "_id": {
+          "$oid": "9dce515a0c2f4863b9bbbe29"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Android 14",
+        "_id": {
+          "$oid": "9b2cbd06d3c64e728b43ab59"
+        }
+      }
+    ],
+    "features": [
+      "Magic Eraser",
+      "7 years of OS updates",
+      "Nightsight photography"
+    ],
+    "tags": [
+      "smartphone",
+      "google",
+      "pixel",
+      "5G",
+      "photography"
+    ],
+    "discount": 0,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Obsidian", "Porcelain", "Bay"]
+      },
+      {
+        "name": "Storage",
+        "options": ["128GB", "256GB", "512GB"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T23:10:30.101234Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T23:10:30.101234Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "a4a26e5eabfd4f2fa35b10fa"
+    },
+    "name": "OnePlus 12",
+    "price": 899.99,
+    "description": "Flagship performance with Hasselblad camera system, incredible charging speeds, and smooth OxygenOS experience.",
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "images": [
+      "https://images.unsplash.com/photo-1679283315531-e7d8d465e909?q=80&w=1000",
+      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?q=80&w=1000",
+      "https://images.unsplash.com/photo-1672392724876-bf90b6c542b9?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 187,
+    "inStock": true,
+    "stock": 70,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Snapdragon 8 Gen 3",
+        "_id": {
+          "$oid": "3414f6a38719439b9b0075ca"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB LPDDR5X",
+        "_id": {
+          "$oid": "34f6e1e36e5745db8b243c8a"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "256GB UFS 4.0",
+        "_id": {
+          "$oid": "y19b64e17b4a49a7a282105a"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.82\" LTPO AMOLED 120Hz",
+        "_id": {
+          "$oid": "yd36f4aebd8b4fd8b404a1ea"
+        }
+      },
+      {
+        "name": "Battery",
+        "value": "5400mAh",
+        "_id": {
+          "$oid": "adce515a0c2f4863b9bbbe2a"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "OxygenOS 14 (Android 14)",
+        "_id": {
+          "$oid": "ab2cbd06d3c64e728b43ab5a"
+        }
+      }
+    ],
+    "features": [
+      "100W SUPERVOOC charging",
+      "Hasselblad Camera",
+      "Alert Slider"
+    ],
+    "tags": [
+      "smartphone",
+      "oneplus",
+      "flagship",
+      "5G"
+    ],
+    "discount": 10,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Silky Black", "Eternal Green"]
+      },
+      {
+        "name": "Storage",
+        "options": ["256GB", "512GB"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T23:25:45.212345Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T23:25:45.212345Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "b4a26e5eabfd4f2fa35b10fb"
+    },
+    "name": "Xiaomi 14 Ultra",
+    "price": 1099.99,
+    "description": "Premium smartphone with Leica optics, top-tier performance, and exceptional display quality.",
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-98934eb9cbfa?q=80&w=1000",
+      "https://images.unsplash.com/photo-1578635073855-a89b3dd5cc18?q=80&w=1000",
+      "https://images.unsplash.com/photo-1568706407142-cafe0c91e5a8?q=80&w=1000"
+    ],
+    "rating": 4.6,
+    "reviewCount": 165,
+    "inStock": true,
+    "stock": 55,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Snapdragon 8 Gen 3",
+        "_id": {
+          "$oid": "4414f6a38719439b9b0075cb"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB LPDDR5X",
+        "_id": {
+          "$oid": "44f6e1e36e5745db8b243c8b"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "512GB UFS 4.0",
+        "_id": {
+          "$oid": "z19b64e17b4a49a7a282105b"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.73\" LTPO AMOLED 120Hz",
+        "_id": {
+          "$oid": "zd36f4aebd8b4fd8b404a1eb"
+        }
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh",
+        "_id": {
+          "$oid": "bdce515a0c2f4863b9bbbe2b"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "HyperOS (Android 14)",
+        "_id": {
+          "$oid": "bb2cbd06d3c64e728b43ab5b"
+        }
+      }
+    ],
+    "features": [
+      "Leica Summilux lenses",
+      "120W HyperCharge",
+      "IP68 water resistance"
+    ],
+    "tags": [
+      "smartphone",
+      "xiaomi",
+      "premium",
+      "5G",
+      "photography"
+    ],
+    "discount": 5,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Titanium Black", "White"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T23:40:15.323456Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T23:40:15.323456Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "c4a26e5eabfd4f2fa35b10fc"
+    },
+    "name": "Nothing Phone (2)",
+    "price": 699.99,
+    "description": "Distinctive transparent design with innovative Glyph Interface, powerful performance, and clean software experience.",
+    "category": "Smartphones",
+    "brand": "Nothing",
+    "images": [
+      "https://images.unsplash.com/photo-1690214392502-3c8b6c2b1842?q=80&w=1000",
+      "https://images.unsplash.com/photo-1690214392448-74b8e8258023?q=80&w=1000",
+      "https://images.unsplash.com/photo-1690214392459-5889d61db3e3?q=80&w=1000"
+    ],
+    "rating": 4.5,
+    "reviewCount": 153,
+    "inStock": true,
+    "stock": 50,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Snapdragon 8+ Gen 1",
+        "_id": {
+          "$oid": "5414f6a38719439b9b0075cc"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "12GB",
+        "_id": {
+          "$oid": "54f6e1e36e5745db8b243c8c"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "256GB",
+        "_id": {
+          "$oid": "aa19b64e17b4a49a7a282105c"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.7\" LTPO OLED 120Hz",
+        "_id": {
+          "$oid": "aad36f4aebd8b4fd8b404a1ec"
+        }
+      },
+      {
+        "name": "Battery",
+        "value": "4700mAh",
+        "_id": {
+          "$oid": "cdce515a0c2f4863b9bbbe2c"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Nothing OS 2.5 (Android 14)",
+        "_id": {
+          "$oid": "cb2cbd06d3c64e728b43ab5c"
+        }
+      }
+    ],
+    "features": [
+      "Glyph Interface",
+      "Transparent design",
+      "45W fast charging"
+    ],
+    "tags": [
+      "smartphone",
+      "nothing",
+      "unique",
+      "5G"
+    ],
+    "discount": 15,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["White", "Dark Gray"]
+      },
+      {
+        "name": "Storage",
+        "options": ["128GB", "256GB", "512GB"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T23:55:25.434567Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T23:55:25.434567Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "d4a26e5eabfd4f2fa35b10fd"
+    },
+    "name": "Motorola Edge 50 Ultra",
+    "price": 799.99,
+    "description": "Premium smartphone with curved display, impressive camera system, and clean Android experience.",
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "images": [
+      "https://images.unsplash.com/photo-1669058665299-d6f81126adc1?q=80&w=1000",
+      "https://images.unsplash.com/photo-1659112983911-1628af74faed?q=80&w=1000",
+      "https://images.unsplash.com/photo-1622533799015-8b6969d6e3a2?q=80&w=1000"
+    ],
+    "rating": 4.4,
+    "reviewCount": 128,
+    "inStock": true,
+    "stock": 60,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Snapdragon 8s Gen 3",
+        "_id": {
+          "$oid": "6414f6a38719439b9b0075cd"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "12GB LPDDR5X",
+        "_id": {
+          "$oid": "64f6e1e36e5745db8b243c8d"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "256GB UFS 4.0",
+        "_id": {
+          "$oid": "bb19b64e17b4a49a7a282105d"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.67\" pOLED 144Hz",
+        "_id": {
+          "$oid": "bbd36f4aebd8b4fd8b404a1ed"
+        }
+      },
+      {
+        "name": "Battery",
+        "value": "4500mAh",
+        "_id": {
+          "$oid": "ddce515a0c2f4863b9bbbe2d"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Android 14",
+        "_id": {
+          "$oid": "db2cbd06d3c64e728b43ab5d"
+        }
+      }
+    ],
+    "features": [
+      "200MP main camera",
+      "68W TurboPower charging",
+      "IP68 water resistance"
+    ],
+    "tags": [
+      "smartphone",
+      "motorola",
+      "edge",
+      "5G"
+    ],
+    "discount": 10,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Forest Green", "Peach Fuzz", "Black"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T00:10:35.545678Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T00:10:35.545678Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "e4a26e5eabfd4f2fa35b10fe"
+    },
+    "name": "ASUS ROG Phone 8 Pro",
+    "price": 1199.99,
+    "description": "Ultimate gaming smartphone with advanced cooling, high refresh rate display, and powerful gaming features.",
+    "category": "Smartphones",
+    "brand": "ASUS",
+    "images": [
+      "https://images.unsplash.com/photo-1661423657453-283fdaa2532a?q=80&w=1000",
+      "https://images.unsplash.com/photo-1661423657635-b8c06a6c71e0?q=80&w=1000",
+      "https://images.unsplash.com/photo-1661423657694-48a7d5d521ca?q=80&w=1000"
+    ],
+    "rating": 4.8,
+    "reviewCount": 142,
+    "inStock": true,
+    "stock": 40,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Snapdragon 8 Gen 3",
+        "_id": {
+          "$oid": "7414f6a38719439b9b0075ce"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB LPDDR5X",
+        "_id": {
+          "$oid": "74f6e1e36e5745db8b243c8e"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "512GB UFS 4.0",
+        "_id": {
+          "$oid": "cc19b64e17b4a49a7a282105e"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.78\" AMOLED 165Hz",
+        "_id": {
+          "$oid": "ccd36f4aebd8b4fd8b404a1ee"
+        }
+      },
+      {
+        "name": "Battery",
+        "value": "5800mAh",
+        "_id": {
+          "$oid": "edce515a0c2f4863b9bbbe2e"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "ROG UI (Android 14)",
+        "_id": {
+          "$oid": "eb2cbd06d3c64e728b43ab5e"
+        }
+      }
+    ],
+    "features": [
+      "AeroActive Cooler",
+      "GameCool 8 cooling system",
+      "Air Trigger 6 ultrasonic buttons"
+    ],
+    "tags": [
+      "smartphone",
+      "gaming",
+      "rog",
+      "5G"
+    ],
+    "discount": 0,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Phantom Black", "Storm White"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T00:25:45.656789Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T00:25:45.656789Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "f4a26e5eabfd4f2fa35b10ff"
+    },
+    "name": "Sony Xperia 1 VI",
+    "price": 1399.99,
+    "description": "Professional-grade smartphone with 4K display, exceptional camera capabilities, and audio excellence.",
+    "category": "Smartphones",
+    "brand": "Sony",
+    "images": [
+      "https://images.unsplash.com/photo-1561273477-eb849845a1f5?q=80&w=1000",
+      "https://images.unsplash.com/photo-1558403194-611308249627?q=80&w=1000",
+      "https://images.unsplash.com/photo-1595941069915-4ebc5197c14a?q=80&w=1000"
+    ],
+    "rating": 4.5,
+    "reviewCount": 98,
+    "inStock": true,
+    "stock": 30,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Snapdragon 8 Gen 3",
+        "_id": {
+          "$oid": "8414f6a38719439b9b0075cf"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "12GB LPDDR5X",
+        "_id": {
+          "$oid": "84f6e1e36e5745db8b243c8f"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "256GB UFS 4.0",
+        "_id": {
+          "$oid": "dd19b64e17b4a49a7a282105f"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.5\" 4K HDR OLED 120Hz",
+        "_id": {
+          "$oid": "ddd36f4aebd8b4fd8b404a1ef"
+        }
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh",
+        "_id": {
+          "$oid": "fdce515a0c2f4863b9bbbe2f"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "Android 14",
+        "_id": {
+          "$oid": "fb2cbd06d3c64e728b43ab5f"
+        }
+      }
+    ],
+    "features": [
+      "ZEISS optics",
+      "3.5mm headphone jack",
+      "Photography Pro app"
+    ],
+    "tags": [
+      "smartphone",
+      "sony",
+      "photography",
+      "5G",
+      "audio"
+    ],
+    "discount": 5,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black", "Silver", "Green", "Purple"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T00:40:55.767890Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T00:40:55.767890Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "04a26e5eabfd4f2fa35b1100"
+    },
+    "name": "Oppo Find X7 Ultra",
+    "price": 999.99,
+    "description": "Exceptional smartphone with Hasselblad camera system, elegant design, and premium features.",
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "images": [
+      "https://images.unsplash.com/photo-1563655950025-7f27afc0c8c4?q=80&w=1000",
+      "https://images.unsplash.com/photo-1656133739736-6abcad93cdab?q=80&w=1000",
+      "https://images.unsplash.com/photo-1601106315698-ee39132f5aaa?q=80&w=1000"
+    ],
+    "rating": 4.6,
+    "reviewCount": 125,
+    "inStock": true,
+    "stock": 45,
+    "specifications": [
+      {
+        "name": "Processor",
+        "value": "Dimensity 9300+",
+        "_id": {
+          "$oid": "9414f6a38719439b9b0075d0"
+        }
+      },
+      {
+        "name": "RAM",
+        "value": "16GB LPDDR5X",
+        "_id": {
+          "$oid": "94f6e1e36e5745db8b243c90"
+        }
+      },
+      {
+        "name": "Storage",
+        "value": "512GB UFS 4.0",
+        "_id": {
+          "$oid": "ee19b64e17b4a49a7a2821060"
+        }
+      },
+      {
+        "name": "Display",
+        "value": "6.82\" LTPO AMOLED 120Hz",
+        "_id": {
+          "$oid": "eed36f4aebd8b4fd8b404a1f0"
+        }
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh",
+        "_id": {
+          "$oid": "0dce515a0c2f4863b9bbbe30"
+        }
+      },
+      {
+        "name": "Operating System",
+        "value": "ColorOS 14 (Android 14)",
+        "_id": {
+          "$oid": "0b2cbd06d3c64e728b43ab60"
+        }
+      }
+    ],
+    "features": [
+      "Hasselblad camera system",
+      "100W SUPERVOOC charging",
+      "IP68 water resistance"
+    ],
+    "tags": [
+      "smartphone",
+      "oppo",
+      "photography",
+      "5G"
+    ],
+    "discount": 8,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Ocean Blue", "Obsidian Black", "Desert Silver"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T00:55:05.878901Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T00:55:05.878901Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "94a26e5eabfd4f2fa35b10e4"
+    },
+    "name": "Sony WH-1000XM5",
+    "price": 349.99,
+    "description": "Industry-leading noise cancellation with exceptional sound quality and up to 30 hours of battery life.",
+    "category": "Audio",
+    "brand": "Sony",
+    "images": [
+      "https://images.unsplash.com/photo-1648371738636-44b69b19ec66?q=80&w=1000",
+      "https://images.unsplash.com/photo-1649773322856-1da289e9c3ec?q=80&w=1000",
+      "https://images.unsplash.com/photo-1600086827875-a63b01f1335c?q=80&w=1000"
+    ],
+    "rating": 4.8,
+    "reviewCount": 412,
+    "inStock": true,
+    "stock": 60,
+    "specifications": [
+      {
+        "name": "Driver",
+        "value": "30mm Dynamic Driver",
+        "_id": {
+          "$oid": "3414f6a38719439b9b0075b7"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 30 hours",
+        "_id": {
+          "$oid": "34f6e1e36e5745db8b243c70"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.2",
+        "_id": {
+          "$oid": "h19b64e17b4a49a7a2821048"
+        }
+      },
+      {
+        "name": "Noise Cancellation",
+        "value": "Industry-leading ANC",
+        "_id": {
+          "$oid": "hd36f4aebd8b4fd8b404a1d6"
+        }
+      },
+      {
+        "name": "Weight",
+        "value": "250g",
+        "_id": {
+          "$oid": "9dce515a0c2f4863b9bbbe18"
+        }
+      }
+    ],
+    "features": [
+      "Industry-leading noise cancellation",
+      "Speak-to-chat",
+      "Multipoint connection"
+    ],
+    "tags": [
+      "headphones",
+      "audio",
+      "noise-cancellation",
+      "wireless"
+    ],
+    "discount": 15,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black", "Silver", "Midnight Blue"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T13:45:12.246813Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T13:45:12.246813Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "a4a26e5eabfd4f2fa35b10e5"
+    },
+    "name": "Apple AirPods Pro 2",
+    "price": 249.99,
+    "description": "Active Noise Cancellation, Adaptive Transparency, and personalized Spatial Audio for immersive sound.",
+    "category": "Audio",
+    "brand": "Apple",
+    "images": [
+      "https://images.unsplash.com/photo-1603184016188-88d1e9e90950?q=80&w=1000",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=1000",
+      "https://images.unsplash.com/photo-1588423771073-b8903fbb85b5?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 378,
+    "inStock": true,
+    "stock": 95,
+    "specifications": [
+      {
+        "name": "Chip",
+        "value": "H2 chip",
+        "_id": {
+          "$oid": "4414f6a38719439b9b0075b8"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 6 hours (30 with case)",
+        "_id": {
+          "$oid": "44f6e1e36e5745db8b243c71"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.3",
+        "_id": {
+          "$oid": "i19b64e17b4a49a7a2821049"
+        }
+      },
+      {
+        "name": "Water Resistance",
+        "value": "IPX4",
+        "_id": {
+          "$oid": "id36f4aebd8b4fd8b404a1d7"
+        }
+      },
+      {
+        "name": "Weight",
+        "value": "5.3g per earbuds",
+        "_id": {
+          "$oid": "adce515a0c2f4863b9bbbe19"
+        }
+      }
+    ],
+    "features": [
+      "Active Noise Cancellation",
+      "Adaptive Transparency",
+      "Personalized Spatial Audio"
+    ],
+    "tags": [
+      "earbuds",
+      "audio",
+      "wireless",
+      "apple"
+    ],
+    "discount": 10,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["White"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-16T14:20:33.357924Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-16T14:20:33.357924Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "14a26e5eabfd4f2fa35b1101"
+    },
+    "name": "Bose QuietComfort Ultra Headphones",
+    "price": 429.99,
+    "description": "Premium wireless headphones with unmatched noise cancellation, spatial audio, and immersive sound quality.",
+    "category": "Audio",
+    "brand": "Bose",
+    "images": [
+      "https://images.unsplash.com/photo-1606126935654-fb6747f7b9ea?q=80&w=1000",
+      "https://images.unsplash.com/photo-1610041321420-a54d62c730a0?q=80&w=1000",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=1000"
+    ],
+    "rating": 4.8,
+    "reviewCount": 325,
+    "inStock": true,
+    "stock": 50,
+    "specifications": [
+      {
+        "name": "Driver",
+        "value": "Custom-designed driver system",
+        "_id": {
+          "$oid": "a414f6a38719439b9b0075d1"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 24 hours",
+        "_id": {
+          "$oid": "a4f6e1e36e5745db8b243c91"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.3",
+        "_id": {
+          "$oid": "ff19b64e17b4a49a7a2821061"
+        }
+      },
+      {
+        "name": "Noise Cancellation",
+        "value": "CustomTune technology",
+        "_id": {
+          "$oid": "ffd36f4aebd8b4fd8b404a1f1"
+        }
+      },
+      {
+        "name": "Weight",
+        "value": "251g",
+        "_id": {
+          "$oid": "1dce515a0c2f4863b9bbbe31"
+        }
+      }
+    ],
+    "features": [
+      "Immersive Audio",
+      "Quiet and Aware modes",
+      "Advanced microphone system"
+    ],
+    "tags": [
+      "headphones",
+      "audio",
+      "noise-cancellation",
+      "wireless",
+      "premium"
+    ],
+    "discount": 10,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black", "White Smoke", "Sandstone"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T01:10:15.989012Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T01:10:15.989012Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "24a26e5eabfd4f2fa35b1102"
+    },
+    "name": "Samsung Galaxy Buds 3 Pro",
+    "price": 199.99,
+    "description": "Intelligent noise cancellation, outstanding sound quality, and seamless integration with Galaxy devices.",
+    "category": "Audio",
+    "brand": "Samsung",
+    "images": [
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=1000",
+      "https://images.unsplash.com/photo-1629367494173-c78a56567877?q=80&w=1000",
+      "https://images.unsplash.com/photo-1572666341285-c8cb9790ca50?q=80&w=1000"
+    ],
+    "rating": 4.6,
+    "reviewCount": 287,
+    "inStock": true,
+    "stock": 75,
+    "specifications": [
+      {
+        "name": "Driver",
+        "value": "10mm Dynamic Driver",
+        "_id": {
+          "$oid": "b414f6a38719439b9b0075d2"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 8 hours (30 with case)",
+        "_id": {
+          "$oid": "b4f6e1e36e5745db8b243c92"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.3",
+        "_id": {
+          "$oid": "gg19b64e17b4a49a7a2821062"
+        }
+      },
+      {
+        "name": "Water Resistance",
+        "value": "IPX7",
+        "_id": {
+          "$oid": "ggd36f4aebd8b4fd8b404a1f2"
+        }
+      },
+      {
+        "name": "Weight",
+        "value": "5.5g per earbud",
+        "_id": {
+          "$oid": "2dce515a0c2f4863b9bbbe32"
+        }
+      }
+    ],
+    "features": [
+      "Intelligent ANC",
+      "360 Audio",
+      "Voice Detect"
+    ],
+    "tags": [
+      "earbuds",
+      "audio",
+      "samsung",
+      "wireless"
+    ],
+    "discount": 15,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Phantom Black", "White", "Graphite", "Bora Purple"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T01:25:25.090123Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T01:25:25.090123Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "34a26e5eabfd4f2fa35b1103"
+    },
+    "name": "Sonos Era 300",
+    "price": 449.99,
+    "description": "Room-filling spatial audio with Dolby Atmos support, premium sound, and sleek design.",
+    "category": "Audio",
+    "brand": "Sonos",
+    "images": [
+      "https://images.unsplash.com/photo-1612839544772-38cc5c80ff95?q=80&w=1000",
+      "https://images.unsplash.com/photo-1576225410873-b34f8769e1d5?q=80&w=1000",
+      "https://images.unsplash.com/photo-1547393947-ef94ffdde87b?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 184,
+    "inStock": true,
+    "stock": 35,
+    "specifications": [
+      {
+        "name": "Audio",
+        "value": "Dolby Atmos, stereo, and spatial audio",
+        "_id": {
+          "$oid": "c414f6a38719439b9b0075d3"
+        }
+      },
+      {
+        "name": "Connectivity",
+        "value": "Wi-Fi 6, Bluetooth 5.0, Apple AirPlay 2",
+        "_id": {
+          "$oid": "c4f6e1e36e5745db8b243c93"
+        }
+      },
+      {
+        "name": "Dimensions",
+        "value": "6.4 x 10.2 x 7.3 inches",
+        "_id": {
+          "$oid": "hh19b64e17b4a49a7a2821063"
+        }
+      },
+      {
+        "name": "Voice Control",
+        "value": "Sonos Voice Control, Amazon Alexa",
+        "_id": {
+          "$oid": "hhd36f4aebd8b4fd8b404a1f3"
+        }
+      },
+      {
+        "name": "Power",
+        "value": "Auto-switching 100-240V, 50-60Hz AC",
+        "_id": {
+          "$oid": "3dce515a0c2f4863b9bbbe33"
+        }
+      }
+    ],
+    "features": [
+      "Trueplay tuning",
+      "Stereo pairing",
+      "Built-in microphones"
+    ],
+    "tags": [
+      "speaker",
+      "audio",
+      "home audio",
+      "smart speaker",
+      "spatial audio"
+    ],
+    "discount": 0,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black", "White"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T01:40:35.101234Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T01:40:35.101234Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "44a26e5eabfd4f2fa35b1104"
+    },
+    "name": "Sennheiser Momentum 4 Wireless",
+    "price": 379.99,
+    "description": "Audiophile-grade wireless headphones with exceptional sound clarity, superior comfort, and remarkable battery life.",
+    "category": "Audio",
+    "brand": "Sennheiser",
+    "images": [
+      "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?q=80&w=1000",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=1000",
+      "https://images.unsplash.com/photo-1520170350707-b2da59970118?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 223,
+    "inStock": true,
+    "stock": 45,
+    "specifications": [
+      {
+        "name": "Driver",
+        "value": "42mm dynamic driver",
+        "_id": {
+          "$oid": "d414f6a38719439b9b0075d4"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 60 hours",
+        "_id": {
+          "$oid": "d4f6e1e36e5745db8b243c94"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.2, 3.5mm wired",
+        "_id": {
+          "$oid": "ii19b64e17b4a49a7a2821064"
+        }
+      },
+      {
+        "name": "Noise Cancellation",
+        "value": "Adaptive Noise Cancellation",
+        "_id": {
+          "$oid": "iid36f4aebd8b4fd8b404a1f4"
+        }
+      },
+      {
+        "name": "Weight",
+        "value": "293g",
+        "_id": {
+          "$oid": "4dce515a0c2f4863b9bbbe34"
+        }
+      }
+    ],
+    "features": [
+      "Customizable EQ",
+      "Transparency mode",
+      "Smart Control app"
+    ],
+    "tags": [
+      "headphones",
+      "audio",
+      "wireless",
+      "noise-cancellation",
+      "premium"
+    ],
+    "discount": 5,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black", "White"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T01:55:45.212345Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T01:55:45.212345Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "54a26e5eabfd4f2fa35b1105"
+    },
+    "name": "JBL Flip 6",
+    "price": 129.99,
+    "description": "Portable Bluetooth speaker with powerful sound, durable design, and PartyBoost for connecting multiple speakers.",
+    "category": "Audio",
+    "brand": "JBL",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=1000",
+      "https://images.unsplash.com/photo-1659013503231-f78d8f405a84?q=80&w=1000",
+      "https://images.unsplash.com/photo-1585419762474-307070222bf8?q=80&w=1000"
+    ],
+    "rating": 4.6,
+    "reviewCount": 412,
+    "inStock": true,
+    "stock": 90,
+    "specifications": [
+      {
+        "name": "Output Power",
+        "value": "30W RMS",
+        "_id": {
+          "$oid": "e414f6a38719439b9b0075d5"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 12 hours",
+        "_id": {
+          "$oid": "e4f6e1e36e5745db8b243c95"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.1",
+        "_id": {
+          "$oid": "jj19b64e17b4a49a7a2821065"
+        }
+      },
+      {
+        "name": "Water Resistance",
+        "value": "IP67 waterproof and dustproof",
+        "_id": {
+          "$oid": "jjd36f4aebd8b4fd8b404a1f5"
+        }
+      },
+      {
+        "name": "Dimensions",
+        "value": "7 x 2.7 x 2.9 inches",
+        "_id": {
+          "$oid": "5dce515a0c2f4863b9bbbe35"
+        }
+      }
+    ],
+    "features": [
+      "PartyBoost",
+      "JBL Signature Sound",
+      "USB-C charging"
+    ],
+    "tags": [
+      "speaker",
+      "portable",
+      "bluetooth",
+      "waterproof",
+      "outdoor"
+    ],
+    "discount": 15,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black", "Blue", "Red", "Teal", "Grey"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T02:10:55.323456Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T02:10:55.323456Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64a26e5eabfd4f2fa35b1106"
+    },
+    "name": "Jabra Elite 8 Active",
+    "price": 199.99,
+    "description": "Ultra-durable sports earbuds with military-grade durability, active noise cancellation, and secure fit.",
+    "category": "Audio",
+    "brand": "Jabra",
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=1000",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?q=80&w=1000",
+      "https://images.unsplash.com/photo-1649859394614-dc4700fb47a8?q=80&w=1000"
+    ],
+    "rating": 4.5,
+    "reviewCount": 178,
+    "inStock": true,
+    "stock": 65,
+    "specifications": [
+      {
+        "name": "Driver",
+        "value": "6mm custom drivers",
+        "_id": {
+          "$oid": "f414f6a38719439b9b0075d6"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 8 hours (32 with case)",
+        "_id": {
+          "$oid": "f4f6e1e36e5745db8b243c96"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.3",
+        "_id": {
+          "$oid": "kk19b64e17b4a49a7a2821066"
+        }
+      },
+      {
+        "name": "Water Resistance",
+        "value": "IP68 waterproof and dustproof",
+        "_id": {
+          "$oid": "kkd36f4aebd8b4fd8b404a1f6"
+        }
+      },
+      {
+        "name": "Weight",
+        "value": "5g per earbud",
+        "_id": {
+          "$oid": "6dce515a0c2f4863b9bbbe36"
+        }
+      }
+    ],
+    "features": [
+      "Adaptive Active Noise Cancellation",
+      "Adaptive Hear Through",
+      "ShakeGrip technology"
+    ],
+    "tags": [
+      "earbuds",
+      "sports",
+      "waterproof",
+      "active",
+      "wireless"
+    ],
+    "discount": 10,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black", "Navy", "Caramel", "Dark Grey"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T02:25:05.434567Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T02:25:05.434567Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "74a26e5eabfd4f2fa35b1107"
+    },
+    "name": "Marshall Stanmore III",
+    "price": 379.99,
+    "description": "Iconic home speaker with vintage styling, powerful sound, and modern connectivity.",
+    "category": "Audio",
+    "brand": "Marshall",
+    "images": [
+      "https://images.unsplash.com/photo-1610616361194-bd7d252e3a94?q=80&w=1000",
+      "https://images.unsplash.com/photo-1601429338274-8dba9d62f435?q=80&w=1000",
+      "https://images.unsplash.com/photo-1558745309-449eb39ab59c?q=80&w=1000"
+    ],
+    "rating": 4.7,
+    "reviewCount": 154,
+    "inStock": true,
+    "stock": 40,
+    "specifications": [
+      {
+        "name": "Output Power",
+        "value": "80W",
+        "_id": {
+          "$oid": "0414f6a38719439b9b0075d7"
+        }
+      },
+      {
+        "name": "Frequency Range",
+        "value": "45-22,000 Hz",
+        "_id": {
+          "$oid": "04f6e1e36e5745db8b243c97"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.2, 3.5mm input, RCA",
+        "_id": {
+          "$oid": "ll19b64e17b4a49a7a2821067"
+        }
+      },
+      {
+        "name": "Dimensions",
+        "value": "350 x 195 x 185 mm",
+        "_id": {
+          "$oid": "lld36f4aebd8b4fd8b404a1f7"
+        }
+      },
+      {
+        "name": "Weight",
+        "value": "4.25 kg",
+        "_id": {
+          "$oid": "7dce515a0c2f4863b9bbbe37"
+        }
+      }
+    ],
+    "features": [
+      "Dynamic Loudness",
+      "Iconic Marshall design",
+      "Marshall Bluetooth app"
+    ],
+    "tags": [
+      "speaker",
+      "home audio",
+      "vintage",
+      "premium"
+    ],
+    "discount": 0,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black", "Cream"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T02:40:15.545678Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T02:40:15.545678Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "84a26e5eabfd4f2fa35b1108"
+    },
+    "name": "Audio-Technica ATH-M50xBT2",
+    "price": 199.99,
+    "description": "Professional studio monitor headphones with Bluetooth connectivity, acclaimed sound quality, and long battery life.",
+    "category": "Audio",
+    "brand": "Audio-Technica",
+    "images": [
+      "https://images.unsplash.com/photo-1567270671170-fdc10a5bf831?q=80&w=1000",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=1000",
+      "https://images.unsplash.com/photo-1612444530582-fc66183b16f7?q=80&w=1000"
+    ],
+    "rating": 4.8,
+    "reviewCount": 276,
+    "inStock": true,
+    "stock": 55,
+    "specifications": [
+      {
+        "name": "Driver",
+        "value": "45mm large-aperture drivers",
+        "_id": {
+          "$oid": "1414f6a38719439b9b0075d8"
+        }
+      },
+      {
+        "name": "Battery Life",
+        "value": "Up to 50 hours",
+        "_id": {
+          "$oid": "14f6e1e36e5745db8b243c98"
+        }
+      },
+      {
+        "name": "Connection",
+        "value": "Bluetooth 5.0, 3.5mm wired",
+        "_id": {
+          "$oid": "mm19b64e17b4a49a7a2821068"
+        }
+      },
+      {
+        "name": "Frequency Response",
+        "value": "15-28,000 Hz",
+        "_id": {
+          "$oid": "mmd36f4aebd8b4fd8b404a1f8"
+        }
+      },
+      {
+        "name": "Weight",
+        "value": "307g",
+        "_id": {
+          "$oid": "8dce515a0c2f4863b9bbbe38"
+        }
+      }
+    ],
+    "features": [
+      "Proprietary 45mm large-aperture drivers",
+      "Multipoint pairing",
+      "Low latency mode"
+    ],
+    "tags": [
+      "headphones",
+      "studio",
+      "professional",
+      "wireless"
+    ],
+    "discount": 12,
+    "variants": [
+      {
+        "name": "Color",
+        "options": ["Black"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2025-04-17T02:55:25.656789Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-17T02:55:25.656789Z"
+    },
+    "__v": 0
+  }
+] 

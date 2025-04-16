@@ -684,14 +684,14 @@ const ProductDetails = () => {
                   <div className="col-6 col-md-4 col-lg-2">
                     <div className="spec-item text-center p-3 h-100 border rounded">
                       <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Brand</h6>
-                      <p className="mb-0 fw-bold">Sony</p>
+                      <p className="mb-0 fw-bold">{product.brand}</p>
                     </div>
                   </div>
                   
                   <div className="col-6 col-md-4 col-lg-2">
                     <div className="spec-item text-center p-3 h-100 border rounded">
                       <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Category</h6>
-                      <p className="mb-0 fw-bold">Audio</p>
+                      <p className="mb-0 fw-bold">{product.category}</p>
                     </div>
                   </div>
                   
@@ -709,21 +709,25 @@ const ProductDetails = () => {
                   <div className="col-6 col-md-4 col-lg-2">
                     <div className="spec-item text-center p-3 h-100 border rounded">
                       <h6 className="fw-bold text-uppercase small mb-2 text-secondary">SKU</h6>
-                      <p className="mb-0 fw-bold">67F816BC</p>
+                      <p className="mb-0 fw-bold">{product._id ? product._id.substring(0, 8).toUpperCase() : 'N/A'}</p>
                     </div>
                   </div>
                   
                   <div className="col-6 col-md-4 col-lg-2">
                     <div className="spec-item text-center p-3 h-100 border rounded">
                       <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Weight</h6>
-                      <p className="mb-0 fw-bold">0.5 kg</p>
+                      <p className="mb-0 fw-bold">
+                        {product.specifications?.find(spec => spec.name.toLowerCase() === 'weight')?.value || 'N/A'}
+                      </p>
                     </div>
                   </div>
                   
                   <div className="col-6 col-md-4 col-lg-2">
                     <div className="spec-item text-center p-3 h-100 border rounded">
                       <h6 className="fw-bold text-uppercase small mb-2 text-secondary">Warranty</h6>
-                      <p className="mb-0 fw-bold">1 Year Limited Warranty</p>
+                      <p className="mb-0 fw-bold">
+                        {product.specifications?.find(spec => spec.name.toLowerCase() === 'warranty')?.value || 'Standard Warranty'}
+                      </p>
                     </div>
                   </div>
                 </div>

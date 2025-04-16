@@ -272,6 +272,26 @@ function ProductDetail() {
                   <div className="accordion-body">
                     <table className="table table-borderless mb-0">
                       <tbody>
+                        <tr>
+                          <td className="fw-semibold">Brand</td>
+                          <td>{productDetails.brand || 'N/A'}</td>
+                        </tr>
+                        <tr>
+                          <td className="fw-semibold">Category</td>
+                          <td>{productDetails.category || 'N/A'}</td>
+                        </tr>
+                        <tr>
+                          <td className="fw-semibold">Status</td>
+                          <td>
+                            <span className={`badge ${productDetails.stock > 0 ? 'bg-success' : 'bg-danger'}`}>
+                              {productDetails.stock > 0 ? 'Available' : 'Out of Stock'}
+                            </span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td className="fw-semibold">SKU</td>
+                          <td>{productDetails._id ? productDetails._id.substring(0, 8).toUpperCase() : 'N/A'}</td>
+                        </tr>
                         {productDetails.specifications && productDetails.specifications.map((spec, index) => (
                           <tr key={index}>
                             <td className="fw-semibold">{spec.name}</td>
